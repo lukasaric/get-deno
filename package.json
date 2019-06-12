@@ -71,7 +71,7 @@
     "rollup-plugin-node-resolve": "^5.0.1",
     "rollup-plugin-postprocess": "^1.0.2",
     "rollup-plugin-re": "^1.0.7",
-    "rollup-plugin-visualizer": "^1.1.1",
+    "rollup-plugin-visualizer": "^2.0.0",
     "semver": "^6.1.1",
     "shell-profile": "^1.0.3",
     "tap-spec": "^5.0.0",
